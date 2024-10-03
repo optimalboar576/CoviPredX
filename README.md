@@ -29,6 +29,11 @@ cd CoviPredX
 
 ## 1. For Ubuntu
 
+### First unzip and navigate to the CoviPredX directory
+```bash
+unzip CoviPredX.zip
+cd CoviPredX
+```
 ### Create an environment using the provided environment.yml file....
 ```bash
 conda env create -f environment.yml
