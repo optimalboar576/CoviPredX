@@ -16,7 +16,7 @@ To get started, download the latest version of **CoviPredX** from the [Releases]
 
 ## OR
 
-## Step 1: Clone the Repository
+## Clone the Repository
 
 To clone the repository and navigate to the project directory:
 
@@ -27,14 +27,20 @@ cd CoviPredX
 
 ## Installation Instructions
 
-Follow these steps to install and run CoviPredX on your local machine:
+### For Ubuntu
 
-### Prerequisites
-- **Python 3.8 or higher**: Download from [here](https://www.python.org/downloads/).
-- **Java Runtime Environment (JRE)**: Required for PaDEL descriptor calculations. Download from [here](https://www.oracle.com/java/technologies/javase-downloads.html).
+### Create an environment using the provided environment.yml file....
 
+conda env create -f environment.yml
 
+### Activate the environment
+conda activate covipredx
 
-### Step 2: Install Dependencies
+### Install the tool
+pip install covipredx-1.0.0-py3-none-any.whl
 
+### Check if installation worked
+covipredx --help
 
+### USAGE
+usage: covipredx [-h] input_file output_file
