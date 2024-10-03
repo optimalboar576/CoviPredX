@@ -27,7 +27,7 @@ cd CoviPredX
 
 ## Installation Instructions
 
-### For Ubuntu
+## 1. For Ubuntu
 
 ### Create an environment using the provided environment.yml file....
 ```bash
@@ -49,3 +49,6 @@ covipredx --help
 ```bash
 usage: covipredx [-h] input_file output_file
 ```
+
+## 2. For Windows
+It is a portable windows application, which needs no installation. Simply unzip the CoviPredX.gz and click on the CoviPredX.bat batch file to run the application.
