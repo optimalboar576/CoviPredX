@@ -1,6 +1,6 @@
 # CoviPredX - Bioactivity Screening Tool
 
-Welcome to **CoviPredX**, a bioactivity screening tool designed to predict the pIC50 values for COVID-19-related molecules using machine learning models and molecular fingerprints. This tool provides a user-friendly interface for researchers and scientists to predict bioactivity, offering accurate and fast predictions.
+Welcome to **CoviPredX**, a bioactivity screening tool designed to predict the pIC50 values for COVID-19-related molecules using machine learning models and molecular fingerprints. This tool provides a user-friendly interface for researchers and scientists to predict bioactivity, offering accurate and fast predictions. A web application of CoviPredX is availabe on https://covipredx.bicpu.edu.in
 
 ## Why Use CoviPredX?
 
@@ -10,9 +10,20 @@ Welcome to **CoviPredX**, a bioactivity screening tool designed to predict the p
 - **Comprehensive Descriptor Calculation**: Automatically calculates Morgan fingerprints and PaDEL descriptors.
 - **No Coding Required**: Aimed at researchers without programming expertise, CoviPredX allows bioactivity predictions through a simple interface.
 
-## Download
+## Download (For Windows/Ubuntu)
 
-To get started, download the latest version of **CoviPredX** from the [Releases](https://github.com/your-repo/releases) section on GitHub.
+To get started, download the latest version of **CoviPredX** from the [Releases](https://github.com/your-repo/releases) section on GitHub. It is also available in the Downloads section of the web-server.
+
+## OR
+
+## Step 1: Clone the Repository
+
+To clone the repository and navigate to the project directory:
+
+```bash
+git clone https://github.com/your-repo/CoviPredX.git
+cd CoviPredX
+```
 
 ## Installation Instructions
 
@@ -22,17 +33,7 @@ Follow these steps to install and run CoviPredX on your local machine:
 - **Python 3.8 or higher**: Download from [here](https://www.python.org/downloads/).
 - **Java Runtime Environment (JRE)**: Required for PaDEL descriptor calculations. Download from [here](https://www.oracle.com/java/technologies/javase-downloads.html).
 
-### Step 1: Clone the Repository
 
-To clone the repository and navigate to the project directory:
-
-```bash
-git clone https://github.com/your-repo/CoviPredX.git
-cd CoviPredX
-```
-### OR
-
-### Download [CoviPredX.gz](https://covipredx.bicpu.edu.in).
 
 ### Step 2: Install Dependencies
 
