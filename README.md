@@ -30,17 +30,22 @@ cd CoviPredX
 ### For Ubuntu
 
 ### Create an environment using the provided environment.yml file....
-
+```bash
 conda env create -f environment.yml
-
+```
 ### Activate the environment
+```bash
 conda activate covipredx
-
+```
 ### Install the tool
+```bash
 pip install covipredx-1.0.0-py3-none-any.whl
-
+```
 ### Check if installation worked
+```bash
 covipredx --help
-
+```
 ### USAGE
+```bash
 usage: covipredx [-h] input_file output_file
+```
