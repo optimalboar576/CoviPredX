@@ -51,4 +51,12 @@ usage: covipredx [-h] input_file output_file
 ```
 
 ## 2. For Windows
-It is a portable windows application, which needs no installation. Simply unzip the CoviPredX.gz and click on the CoviPredX.bat batch file to run the application.
+It is a portable windows application, which needs no installation. Simply unzip the CoviPredX.gz and click on the CoviPredX.bat batch file to run the application. Make sure you have installed the following prerequisites before running the application--
+
+- **Python 3.8 or higher**: Download from [here](https://www.python.org/downloads/).
+- **Java Runtime Environment (JRE)**: Required for PaDEL descriptor calculations. Download from [here](https://www.oracle.com/java/technologies/javase-downloads.html).
+- **pillow**
+- **pandas**
+- **numpy**
+- **xgboost**
+- **rdkit**
