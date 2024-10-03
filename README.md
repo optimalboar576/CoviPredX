@@ -12,7 +12,7 @@ Welcome to **CoviPredX**, a bioactivity screening tool designed to predict the p
 
 ## Download (For Windows/Ubuntu)
 
-To get started, download the latest version of **CoviPredX** from the [Releases](https://github.com/your-repo/releases) section on GitHub. It is also available in the Downloads section of the web-server.
+To get started, download the latest version of **CoviPredX** from the [Releases](https://github.com/your-repo/releases) section on GitHub. It is also available in the Downloads section of the [web-server](https://covipredx.bicpu.edu.in).
 
 ## OR
 
@@ -53,7 +53,7 @@ usage: covipredx [-h] input_file output_file
 ## 2. For Windows
 It is a portable windows application, which needs no installation. Simply unzip the CoviPredX.gz and click on the CoviPredX.bat batch file to run the application. Make sure you have installed the following prerequisites before running the application--
 
-- **Python 3.8 or higher**: Download from [here](https://www.python.org/downloads/).
+- **Python 3.10 or higher**: Download from [here](https://www.python.org/downloads/).
 - **Java Runtime Environment (JRE)**: Required for PaDEL descriptor calculations. Download from [here](https://www.oracle.com/java/technologies/javase-downloads.html).
 - **pillow**
 - **pandas**
