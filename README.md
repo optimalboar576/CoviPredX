@@ -12,7 +12,7 @@ Welcome to **CoviPredX**, a bioactivity screening tool designed to predict the p
 
 ## Download (For Windows/Ubuntu)
 
-To get started, download the latest version of **CoviPredX** from the [Releases](https://github.com/your-repo/releases) section on GitHub. It is also available in the Downloads section of the [web-server](https://covipredx.bicpu.edu.in).
+To get started, download the latest version of **CoviPredX** from the [Releases](https://github.com/optimalboar576/CoviPredX/releases) section on GitHub. It is also available in the Downloads section of the [web-server](https://covipredx.bicpu.edu.in).
 
 ## OR
 
