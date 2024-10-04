@@ -21,7 +21,7 @@ To get started, download the latest version of **CoviPredX** from the [Releases]
 To clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/your-repo/CoviPredX.git
+git clone https://github.com/optimalboar576/CoviPredX.git
 cd CoviPredX
 ```
 
