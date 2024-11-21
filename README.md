@@ -1,6 +1,6 @@
 # CoviPredX - Bioactivity Screening Tool
 
-Welcome to **CoviPredX**, a bioactivity screening tool designed to predict the pIC50 values for COVID-19-related molecules using machine learning models and molecular fingerprints. This tool provides a user-friendly interface for researchers and scientists to predict bioactivity, offering accurate and fast predictions. A web application of CoviPredX is availabe on https://covipredx.bicpu.edu.in
+Welcome to **CoviPredX**, a bioactivity screening tool designed to predict the pIC50 values for COVID-19-related molecules using machine learning models and molecular fingerprints. This tool provides a user-friendly interface for researchers and scientists to predict bioactivity, offering accurate and fast predictions. A web application of CoviPredX is availabe on http://covipredx.bicpu.edu.in
 
 ## Why Use CoviPredX?
 
