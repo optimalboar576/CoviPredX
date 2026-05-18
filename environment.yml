@@ -77,7 +77,6 @@ dependencies:
   - xorg-libxtst=1.2.5=hb9d3cd8_3
   - zstd=1.5.7=hb78ec9c_6
   - pip:
-    - covipredx==1.1.0
     - joblib==1.5.3
     - lightgbm==4.6.0
     - numpy==1.24.0
