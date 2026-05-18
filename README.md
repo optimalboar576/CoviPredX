@@ -4,7 +4,7 @@ Welcome to **CoviPredX**, a bioactivity screening tool designed to predict the p
 
 ## Why Use CoviPredX?
 
-- **Accurate Predictions**: Built with cutting-edge machine learning algorithms like XGBoost, CoviPredX provides reliable pIC50 predictions.
+- **Accurate Predictions**: Built with cutting-edge machine learning algorithms like Stacking model (XGB+RF+LGBM), CoviPredX provides reliable pIC50 predictions.
 - **Easy to Use**: With a graphical user interface (GUI) powered by Tkinter, the tool allows you to upload CSV files and get predictions with just a few clicks.
 - **Versatile Input**: Accepts CSV files containing SMILES strings, making it suitable for a wide range of molecular input data.
 - **Comprehensive Descriptor Calculation**: Automatically calculates Morgan fingerprints and PaDEL descriptors.
