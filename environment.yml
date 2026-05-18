@@ -77,7 +77,6 @@ dependencies:
   - xorg-libxtst=1.2.5=hb9d3cd8_3
   - zstd=1.5.7=hb78ec9c_6
   - pip:
-    - covipredx==1.1.0
     - joblib==1.5.3
     - lightgbm==4.6.0
     - numpy==1.24.0
@@ -92,4 +91,3 @@ dependencies:
     - threadpoolctl==3.6.0
     - tzdata==2026.2
     - xgboost==1.7.6
-prefix: /usr/local/miniconda3/envs/covipredx
