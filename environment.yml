@@ -91,4 +91,3 @@ dependencies:
     - threadpoolctl==3.6.0
     - tzdata==2026.2
     - xgboost==1.7.6
-prefix: /usr/local/miniconda3/envs/covipredx
