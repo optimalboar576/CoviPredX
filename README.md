@@ -44,7 +44,7 @@ conda activate covipredx
 ```
 ### Install the tool
 ```bash
-pip install covipredx-1.0.0-py3-none-any.whl
+pip install covipredx-1.1.0-py3-none-any.whl
 ```
 ### Check if installation worked
 ```bash
